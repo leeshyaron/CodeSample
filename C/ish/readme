@@ -1,0 +1,11 @@
+Mark Xia
+Assignment 7: A Unix Shell
+
+I received help from the listserv for cos 217. 
+1. Professor Dondero showed me I needed to fflush(stdout); after calls to printf if I wanted to test my shell by redirecting output to a file and comparing them.
+2. I asked some stuff about certain specifications of the assignment, such as whether we can assume the maximum size of the command still holds after expansion of !commandprefix, and whether we need to worry about memory leaks when exiting via ^\ or exit.
+3. I also asked about why we needed default: assert(0) at the end of a switch statement.
+ 
+I did not collaborate with anyone. All of this code is written by me. 
+
+I spent many many hours on this assignment. If I had to estimate, I'd say a good 100+ hours.
